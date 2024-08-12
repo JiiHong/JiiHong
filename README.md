@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!👋&fontSize=70)
 
 ## 🛠️ TECH STACK 🛠️
-#### My Primary Stack
 <img src="https://img.shields.io/badge/React-40AEF0?style=flat&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
@@ -18,7 +17,7 @@
 <br />
 <br />
 
-## GitHub Stats
+## ⭐️ Stats ⭐️
 <img src="https://github-readme-stats.vercel.app/api?username=JiiHong&show_icons=true&hide=stars" alt="JIHONG's Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiiHong&layout=compact" alt="JIHONG's Top Langs"/>
 
